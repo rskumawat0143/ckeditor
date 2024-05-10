@@ -3,11 +3,11 @@
     "plugins": {
         "summernote-editor": {
             "name": "Ckeditors",
-            "repo": "https://github.com/robiso/summernote-editor/tree/master",
-            "zip": "https://github.com/robiso/summernote-editor/archive/master.zip",
+            "repo": "https://github.com/rskumawat0143/ckeditor/tree/master",
+            "zip": "https://github.com/rskumawat0143/ckeditor/archive/master.zip",
             "summary": "Adds an WYSIWYG editor to all content editable fields.",
             "version": "1.1.1",
-            "image": "https://raw.githubusercontent.com/robiso/summernote-editor/master/preview.jpg"
+            "image": "https://github.com/rskumawat0143/ckeditor/blob/main/preview.jpg"
         }
     }
 }
