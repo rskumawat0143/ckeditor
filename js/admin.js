@@ -9,14 +9,14 @@ $(function() {
     $('.editable').ckeditor({
         airMode: false,
         toolbar: [
-            // // [groupName, [list of button]]
-            // ['style', ['style']],
-            // ['font', ['bold', 'italic', 'underline', 'clear']],
-            // ['font', ['fontsize', 'color']],
-            // ['para', ['ul', 'ol', 'paragraph']],
-            // ['insert', ['link', 'doc', 'picture', 'video']], // image and doc are customized buttons
-            // ['table', ['table']],
-            // ['misc', ['codeview']],
+            // [groupName, [list of button]]
+            ['style', ['style']],
+            ['font', ['bold', 'italic', 'underline', 'clear']],
+            ['font', ['fontsize', 'color']],
+            ['para', ['ul', 'ol', 'paragraph']],
+            ['insert', ['link', 'doc', 'picture', 'video']], // image and doc are customized buttons
+            ['table', ['table']],
+            ['misc', ['codeview']],
         ],
         placeholder: 'Click here to enter content.',
         callbacks: {
